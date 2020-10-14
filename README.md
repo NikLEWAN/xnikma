@@ -1,3 +1,5 @@
+<style>h1{color:red;}</style>
+
 <h1>ॐ སར༱ཀའ 🌌</h1>
 
 ### Languages and Tools:
