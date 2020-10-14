@@ -1,4 +1,4 @@
-# ॐ སར༱ཀའ 🌌{align=center}
+# ॐ སར༱ཀའ 🌌 {align=center}
 <h1 align="center">ॐ སར༱ཀའ 🌌</h1><br>
 
 ### Languages and Tools:
